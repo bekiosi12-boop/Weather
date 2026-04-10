@@ -43,19 +43,6 @@ Hardware Sensors: CoreMotion (Gyroscope & Accelerometer)
 
 Networking: URLSession & Async/Await
 
-🚀 Getting Started
-Clone the repo: git clone https://github.com/YOUR_USERNAME/Atmosfera-Weather.git
-
-Open the project in Xcode 15+.
-
-Navigate to WeatherViewModel.swift.
-
-Insert your OpenWeatherMap API key into the apiKey variable.
-
-Hit Run and experience the atmosphere!
-
-Design Philosophy: "Form follows function, but emotion leads the way." — This project was built to prove that utility can be beautiful.
-
 💡 About the Project
 
 This application was developed as a showcase of advanced SwiftUI animations, motion sensor integration, and modern UI/UX design patterns for high-end iOS development.
